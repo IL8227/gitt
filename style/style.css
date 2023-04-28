@@ -1,0 +1,21 @@
+html {
+    background-image: url(https://магияобоев.рус/wp-content/uploads/168069-07-1.jpg);
+    font-family: cursive;
+    text-align: center;
+}
+
+h2,ul,ol {
+    text-align: left;
+}
+
+h1,h2 {
+    color: darkgreen;
+}
+
+p {
+    color: gray;
+}
+
+h1 {
+    text-shadow: 2px 2px black;
+}
